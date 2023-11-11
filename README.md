@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can send me an email at [odysseusk@proton.me](mailto:odysseusk@proton.me)
 - 😄 Pronouns: He/Him/His
 
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/odysseuskir?panels=userstatistics,toprepositories,toplanguages,commitgraph)]
+![reimaginedreadme](https://myreadme.vercel.app/api/embed/odysseuskir?panels=userstatistics,toprepositories,toplanguages,commitgraph)
