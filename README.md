@@ -9,4 +9,4 @@ Welcome to my GitHub profile! This is where you can see what I have been up to i
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=odysseuskir&show_icons=true&theme=tokyonight&custom_title=Odysseus%27%20GitHub%20Stats&show=reviews,prs_merged&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odysseuskir&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odysseuskir&theme=tokyonight&hide_border=true)
