@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This is where you can see what I have been up to in the programming world
 
-- 🏢 I’m working on [Simplified Coding](https://github.com/simplified-coding), [HackOlympia](https://github.com/hack-olympia), and [Europe Hacks](https://github.com/europe-hacks)
+- 🏢 I’m working on [Simplified Coding](https://github.com/simplified-coding) and [HackOlympia](https://github.com/hack-olympia)
 - 🏫 I'm a 10th Grade student at the 1st General Lyceum of Epanomi
 - 🌱 I’m currently learning Competitive Programming and Front-End Development
 - 📫 You can send me an email at [odysseusk@proton.me](mailto:odysseusk@proton.me)
@@ -18,4 +18,3 @@ Welcome to my GitHub profile! This is where you can see what I have been up to i
 
 ![Simplified Coding logo](https://raw.githubusercontent.com/odysseuskir/odysseuskir/main/Simplified%20Coding.png)
 ![HackOlympia logo](https://raw.githubusercontent.com/odysseuskir/odysseuskir/main/HackOlympia.png)
-![Europe Hacks logo](https://raw.githubusercontent.com/odysseuskir/odysseuskir/main/Europe%20Hacks.png)
