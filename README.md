@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! This is where you can see what I have been up to in the programming world
 
 - 🏢 I’m working on [Simplified Coding](https://github.com/simplified-coding)
-- 🏫 I'm a 10th Grade student at the 1st General Lyceum of Epanomi
+- 🏫 I'm a 11th Grade student at the 1st General Lyceum of Epanomi
 - 🌱 I’m currently learning Competitive Programming and Front-End Development
 - 📫 You can send me an email at [odysseusk@proton.me](mailto:odysseusk@proton.me)
 - 😄 Pronouns: He/Him/His
