@@ -17,4 +17,3 @@ Welcome to my GitHub profile! This is where you can see what I have been up to i
 ## Project logos
 
 ![Simplified Coding logo](https://raw.githubusercontent.com/odysseuskir/odysseuskir/main/Simplified%20Coding.png)
-![HackOlympia logo](https://raw.githubusercontent.com/odysseuskir/odysseuskir/main/HackOlympia.png)
